@@ -1,0 +1,34 @@
+{
+  "pluginList": [
+    "davidvkimball/obsidian-seo",
+    "davidvkimball/obsidian-astro-composer",
+    "davidvkimball/obsidian-bases-cms"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "davidvkimball/obsidian-seo",
+      "version": ""
+    },
+    {
+      "repo": "davidvkimball/obsidian-astro-composer",
+      "version": "latest"
+    },
+    {
+      "repo": "davidvkimball/obsidian-bases-cms",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "ajtfati",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

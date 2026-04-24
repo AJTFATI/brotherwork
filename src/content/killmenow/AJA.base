@@ -1,0 +1,9 @@
+views:
+  - type: cms
+    name: View
+    cardSize: 410
+  - type: table
+    name: Table
+  - type: cms
+    name: cms4blog
+    cardSize: 390
